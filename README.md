@@ -21,8 +21,8 @@ i most likely wont have anything on models from these companies mostly because m
 
 And most over Front tier models i wont / wont need to make files for these.
 
-## Advice on using AI
+# Advice on using AI
 
-# Prompts
+## Prompts
 
 Right, so if you are using these ai agents, you most likely see those youtubers who make those videos where they get ai to make a bunch of cool stuff using those super large prompts, however I **do not recommend** using those large master prompts on models at most of the time are not capable, for an example, I got Claude to generate me a master prompt to make me a nice "cosy" Minecraft shader pack, long story short, it sucked, it took me over 1 hour and 60 million tokens to remove only 50%~ of the rendering bugs, then I used the exact same model, in an empty folder, and simply asked it "make me a 1.21.11 cosy shaderpack with warm lighting and realistic shadows and water, make it work for iris shaders" and within less than 20 mins of troubleshooting I had a working shaderpack, it wasn't very good as I cant afford good models but performed far better than the larger prompt
